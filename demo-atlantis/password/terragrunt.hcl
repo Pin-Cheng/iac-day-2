@@ -11,5 +11,5 @@ terraform {
 }
 
 inputs = {
-  password_length = 10
+  password_length = 22
 }
